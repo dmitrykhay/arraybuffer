@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c0rxenu3o8rnlw63?svg=true)](https://ci.appveyor.com/project/OlyaMa/arraybuffer)
